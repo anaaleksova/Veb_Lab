@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37b3c0f1-374a-49b2-ba3e-e8bde76abcbe" name="Changes" comment="" />
+    <list default="true" id="37b3c0f1-374a-49b2-ba3e-e8bde76abcbe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veb_Lab" beforeDir="false" afterPath="$PROJECT_DIR$/Veb_Lab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veb_Lab/Lab2VP/lab/src/main/java/mk/finki/ukim/mk/lab/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Veb_Lab/Lab2VP/lab/src/main/java/mk/finki/ukim/mk/lab/config/WebSecurityConfig.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +52,9 @@
 }</component>
   <component name="RunManager">
     <configuration name="LabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="lab" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Ana_Veb" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="mk.finki.ukim.mk.lab.LabApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +79,7 @@
       <updated>1734715727625</updated>
       <workItem from="1734715728764" duration="516000" />
       <workItem from="1734716250815" duration="31000" />
+      <workItem from="1734717855038" duration="41000" />
     </task>
     <servers />
   </component>
